@@ -12,6 +12,7 @@ gem 'rails', '~> 5.1.6'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'devise'
 gem 'milia'
+gem 'aws-sdk'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
